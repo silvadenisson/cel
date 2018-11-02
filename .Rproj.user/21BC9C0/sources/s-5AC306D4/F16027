@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541133228438.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F16027",
+    "lastKnownWriteTime" : 1541133749,
+    "last_content_update" : 1541133749,
+    "path" : "~/cel/R/logo.R",
+    "project_path" : "R/logo.R",
+    "properties" : {
+        "cursorPosition" : "48,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
