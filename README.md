@@ -1,12 +1,12 @@
 # cel tem funcoes usadas no Centro de Estudos Legislativos
 
-# cel pode ser instaldo via github:
+## cel pode ser instaldo via github:
 
 if (!require("devtools")) install.packages("devtools")
 
 devtools::install_github("silvadenisson/cel")
 
-# para colocar o logo do cel em uma imagem
+## para colocar o logo do cel em uma imagem
 
 ex:
 
